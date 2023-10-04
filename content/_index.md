@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        The title of your CDISK project
+        New title
       image:
         filename: welcome.jpg
       text: |
